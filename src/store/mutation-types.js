@@ -1,0 +1,1 @@
+export const VIEWS_COUNT_UP = 'VIEWS_COUNT_UP'
